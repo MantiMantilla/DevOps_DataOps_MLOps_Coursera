@@ -1,0 +1,3 @@
+[submodule "src/Week_1/lectures/aws-glue-cdk-cicd"]
+	path = src/Week_1/lectures/aws-glue-cdk-cicd
+	url = git@github.com:MantiMantilla/aws-glue-cdk-cicd
